@@ -1,0 +1,21 @@
+{
+    "services": [
+        
+        { "id": 1, "name": "Super Clean", "location":"Steung Meann Chey, Phnom Penh", "price":"20","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 2, "name": "Clean Master", "location":"Toul Kork, Phnom Penh", "price":"15","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 3, "name": "CamClean", "location":"Beong Keng Kong, Phnom Penh", "price":"17","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 4, "name": "Laundry1", "location":"Steung Meann Chey, Phnom Penh", "price":"20","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 5, "name": "Laundry2", "location":"Toul Kork, Phnom Penh", "price":"15","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 6, "name": "Laundry3", "location":"Beong Keng Kong, Phnom Penh", "price":"17","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  }
+        { "id": 7, "name": "elctricity1", "location":"Steung Meann Chey, Phnom Penh", "price":"20","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 8, "name": "elctricity2", "location":"Toul Kork, Phnom Penh", "price":"15","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 9, "name": "elctricity3", "location":"Beong Keng Kong, Phnom Penh", "price":"17","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 10, "name": "plumbing", "location":"Steung Meann Chey, Phnom Penh", "price":"20","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 11, "name": "plumbing", "location":"Toul Kork, Phnom Penh", "price":"15","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  },
+        { "id": 12, "name": "plumbing", "location":"Beong Keng Kong, Phnom Penh", "price":"17","imageUrl":" http://www.mypet.com/img/basic-pet-care/how-long-leave-cat-alone-lead.jpg"  }
+
+
+    ]
+   
+    
+}
